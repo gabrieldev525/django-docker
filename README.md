@@ -11,7 +11,7 @@
 - Create the docker container executing the comand in project home dir:
   ```docker-compose up -d```
  
-*The container has a link to your local project directory, so, if you alter anyone thing in your code, this reflect the code in the container that is executing*
+*The container has a link to your local project directory, so, if you alter anyone thing in your code, this reflect in the code of the container that is executing*
 
 Now, you can access your project in browser by: localhost:8000
 
