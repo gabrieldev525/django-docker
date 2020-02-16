@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  web:
+    build: .
+    container_name: "django"
+    image: django
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app/
