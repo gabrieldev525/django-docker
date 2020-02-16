@@ -6,7 +6,7 @@
 - [docker](https://www.docker.com/)
 - [docker compose](https://docs.docker.com/compose/)
 
-### starting
+### Starting
 - Clone this repository
 - Create the docker container executing the comand in project home dir:
   ```docker-compose up -d```
